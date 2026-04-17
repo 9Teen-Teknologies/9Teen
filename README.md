@@ -2,6 +2,7 @@
 Aspiring cybersecurity professional with a Computer Science foundation and four years of experience as a CCTV operator. My work in monitoring, incident detection, and security awareness complements my growing cybersecurity expertise.
 
 ## Skills
+- CCTV Installations and Management
 - Cybersecurity fundamentals
 - Security operations and monitoring
 - Networking basics
@@ -10,6 +11,8 @@ Aspiring cybersecurity professional with a Computer Science foundation and four 
 - Linux fundamentals
 - Python (beginner/intermediate)
 - Risk awareness and reporting
+- Programming
+
 
 ## Projects & Labs
 - Documented cybersecurity exercises and labs
