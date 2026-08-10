@@ -1,18 +1,23 @@
 ## About Me
-Aspiring cybersecurity professional with a Computer Science foundation and four years of experience as a CCTV operator. My work in monitoring, incident detection, and security awareness complements my growing cybersecurity expertise.
+I am an IT Infrastructure and Security Professional with experience in CCTV systems management, network support, IT troubleshooting, and cybersecurity operations.
+Currently, I serve as Head of CCTV Operations at Our Lady of Grace Senior High School, where I oversee surveillance infrastructure, system monitoring, incident investigations, and operational reliability of security systems. I also provide IT support services, helping users resolve technical issues, maintain systems, and improve operational efficiency.
+My professional interests include cybersecurity, vulnerability management, network security, digital forensics, and security operations. To strengthen my expertise, I am pursuing a Bachelor's degree in Computer Science at the University of the People while earning industry-recognized certifications in networking, cybersecurity and information security.
+I am passionate about leveraging technology to improve security, solve complex technical problems, and support organizational objectives through reliable IT and security solutions.
 
 ## Skills
-- CCTV Installations and Management
+- CCTV Systems Administration
+- Multi-Vendor VMS Integration 
+- Network Switch Configuration
+- Structured Cabling & Termination
+- PoE Camera Deployment
+- IP Camera Diagnostics & IP Scanning
+- Passive Optical Fibre Fundamentals
+- Vulnerability Management
+- Incident Response
+- Network & Cloud Security
+- IT Support & Troubleshooting
+- Technical Documentation
 - Cybersecurity fundamentals
-- Security operations and monitoring
-- Networking basics
-- Degital Forensics
-- Pentesting
-- Linux fundamentals
-- Python (beginner/intermediate)
-- Risk awareness and reporting
-- Programming
-
 
 ## Projects & Labs
 - Documented cybersecurity exercises and labs
