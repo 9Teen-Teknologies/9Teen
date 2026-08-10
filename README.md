@@ -26,6 +26,7 @@ I am passionate about leveraging technology to improve security, solve complex t
 - TryHackMe learning path notes (ethical and legal)
 
 ## Certifications
+- Cisco Networking Academy Certificates and badges
 - Industry-recognized cybersecurity badges and certificates (Credly) and (patchment)
 
 ## Career Goal
